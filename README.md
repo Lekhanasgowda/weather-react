@@ -1,1 +1,2 @@
-# weather-react
+An interactive and responsive weather dashboard web application that provides real-time weather updates, forecasts, and live weather insights for cities across the world.
+WeatherPulse Pro is designed to provide users with accurate and live weather information through an easy-to-use and visually attractive interface. The project integrates weather APIs, geolocation services, and voice recognition features to improve user interaction and experience.
